@@ -85,7 +85,7 @@ Thanks to [kunjappansupport](https://telegram.dog/kunjappansupport) and [ᴋᴜ�
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kunjappan-PSY/justice)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NOBYSHAJ/justice)
 
 ### Deploy in your vps
 ```sh
