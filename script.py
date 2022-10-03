@@ -4,7 +4,7 @@ class Script(object):
 
 I'm an advanced filter bot with many capabilities!
 There is no practical limits for my filtering capacity :)
-
+join🙏 @Cmkmedia 
 See <i>/help</i> for commands and more details.</b>
 """
 
@@ -52,9 +52,9 @@ See <i>/help</i> for commands and more details.</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : ᴋᴜɴᴊᴀᴘᴘᴀɴ ғɪʟᴛᴇʀ ʙᴏᴛ</b>
+    ABOUT_MSG = """⭕️<b>My Name : shaji ғɪʟᴛᴇʀ ʙᴏᴛ</b>
 
-⭕️<b>Creater :</b> @kunjappansupportez    
+⭕️<b>Creater :</b> @Cmkmedia    
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
